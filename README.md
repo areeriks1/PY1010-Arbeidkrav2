@@ -1,4 +1,4 @@
-# PY1010-Arbeidkrav2
+## PY1010-Arbeidkrav2
 Innlevering av Arbeidskrav 2
 
 arbeidkrav2_oppgave1.py
