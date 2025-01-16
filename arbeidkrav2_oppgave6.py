@@ -4,7 +4,7 @@ Created on Thu Jan 16 10:53:09 2025
 
 @author: aeriksen
 """
-
+#Program for å tegne plot til formelen 𝑓(𝑥) = −𝑥2 − 5
 import numpy as np
 import matplotlib.pyplot as plt
 

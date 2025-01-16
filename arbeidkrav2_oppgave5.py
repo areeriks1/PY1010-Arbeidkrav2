@@ -4,7 +4,7 @@ Created on Thu Jan 15 08:39:22 2025
 
 @author: aeriksen
 """
-
+#Program for beregning av omkrets og arial til en figur
 import math
 
 # Brukerinput for a og b
